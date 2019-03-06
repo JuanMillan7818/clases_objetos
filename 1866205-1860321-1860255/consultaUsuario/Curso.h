@@ -1,8 +1,10 @@
 #ifndef CURSO_H
 #define CURSO_H
+#include <iostream>
 #include "Profesor.h"
 #include "Estudiante.h"
 #include <string>
+#include <vector>
 
 using namespace std;
 
